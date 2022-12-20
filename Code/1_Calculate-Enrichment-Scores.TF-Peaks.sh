@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#Jill Moore
+#Moore Lab
+#UMass Chan Medical School
+#December 2022
+
 outputHeader=/data/zusers/moorej3/moorej.ghpcc.project/ENCODE/Encyclopedia/V7/Registry/V7-hg38/Differentiation/DNase-DESeq2/Enrichment-Calculations/ #update
 
 tfDir=/data/projects/encode/data
